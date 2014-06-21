@@ -1,6 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## How to use this code:
+## step 1: create or get a matrix, say A.
+## step 2: create a "global" (or caching) variable for A, by x<-makeCacheMatrix(A);
+## step 3: compute the inverse of matrix A, by cacheSolve(x)
+
 ## Write a short comment describing this function
 
 ## x<-makeCacheMatrix(A) will create a "global" variable (or "a buffering
